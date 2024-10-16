@@ -1,0 +1,118 @@
+*{
+    font-family: "Rubik", sans-serif;;
+}
+
+.header-text{
+    text-align: center;
+}
+
+.container {
+  padding: 10px 0;
+  text-align: center;
+}
+  
+.marker {
+  width: 300px; 
+  height: 50px;
+  margin: 10px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
+.cap {
+  width: 40px; 
+  height: 50px; 
+}
+  
+.sleeve {
+  width: 175px; 
+  height: 50px; 
+  background-color: rgba(255, 255, 255, 0.5);
+  border-left: 20px double rgba(0, 0, 0, 0.75); 
+}
+  
+.cap,
+.sleeve {
+  display: inline-block;
+}
+  
+#red {
+  background: red;
+  box-shadow: 0 0 20px 0 darkred;
+}
+  
+#green {
+  background: green;
+  box-shadow: 0 0 20px 0 lightgreen;
+}
+  
+#blue {
+  background: blue;
+  box-shadow: 0 0 20px 0 rgb(9, 132, 173);
+}
+
+#light-rose{
+  background-color: lightpink;
+  box-shadow: 0 0 20px 0 pink;
+}
+
+#cyan{
+  background-color: cyan;
+  box-shadow: 0 0 20px 0 rgb(70, 232, 232);
+}
+
+#yellow{
+  background-color: yellow;
+  box-shadow: 0 0 20px 0 darkkhaki;
+}
+
+#magenta{
+  background-color: magenta;
+  box-shadow: 0 0 20px 0 magenta;
+}
+
+#black{
+  background-color: black;
+  box-shadow: 0 0 20px 0 black;
+}
+
+#orange{
+  background-color:  orange;
+  box-shadow: 0 0 20px 0 darkorange;
+}
+
+#gray{
+  background-color: gray;
+  box-shadow: 0 0 20px 0 gray;
+}
+
+#brown{
+  background-color: brown;
+  box-shadow: 0 0 20px 0 brown;
+}
+
+#indigo{
+  background-color: indigo;
+  box-shadow: 0 0 20px 0 indigo;
+}
+
+#beige{
+  background-color: beige;
+  box-shadow: 0 0 20px 0 beige;
+}
+
+#dark-seagreen{
+  background-color: darkseagreen;
+  box-shadow: 0 0 20px 0 darkseagreen;
+}
+
+#orange-red{
+  background-color: orangered;
+  box-shadow: 0 0 20px 0 orangered;
+}
+
+#yellow-green{
+  background-color: yellowgreen;
+  box-shadow: 0 0 20px 0 yellowgreen;
+}
