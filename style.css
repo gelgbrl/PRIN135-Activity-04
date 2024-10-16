@@ -2,13 +2,19 @@
     font-family: "Rubik", sans-serif;;
 }
 
+.text{
+  font-size: 17px;
+  font-weight: 450;
+  padding: 12px 7px;
+}
+
 .header-text{
     text-align: center;
 }
 
 .container {
   padding: 10px 0;
-  text-align: center;
+  text-align: right;
 }
   
 .marker {
@@ -30,6 +36,7 @@
   height: 50px; 
   background-color: rgba(255, 255, 255, 0.5);
   border-left: 20px double rgba(0, 0, 0, 0.75); 
+
 }
   
 .cap,
